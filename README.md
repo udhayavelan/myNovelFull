@@ -1,2 +1,0 @@
-# myNovelFull
-myfisrtwebappp
